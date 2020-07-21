@@ -1,0 +1,21 @@
+body{
+    background:linear-gradient(rgb(70, 149, 202),rgb(12, 35, 70));
+    background-repeat: no-repeat;
+    background-size:100%;
+    height: 100vh;
+}
+.card{
+    background:linear-gradient(rgba(114, 176, 218, 0.267),rgb(53, 120, 221));
+    color: aliceblue;
+}
+.collection .collection-item{
+    background-color: rgba(95, 158, 160, 0.541);
+}
+
+.input-field label{
+    color: #FFF;
+}
+/* input desing */
+#task,#filter{
+    color: #FFF;
+}
